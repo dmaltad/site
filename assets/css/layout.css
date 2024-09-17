@@ -210,5 +210,8 @@ a {
 		/* da altura dos elementos ( 300px ) com as suas margens ( 30px ). */
 		height: calc(100vh - 330px);
 	}
-	h1 {color: red;}
+	h1 {
+		color: red;
+	
+	}
 }
