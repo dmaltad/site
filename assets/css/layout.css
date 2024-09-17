@@ -12,7 +12,7 @@
 	box-sizing: border-box;
 }
 
-body {  {color: red;}
+body {  color: red;
 	/* Exibição flexível.                          */
 	/* Torna o elemento um flex container          */
 	/* e os seus elementos internos em flex-itens. */
